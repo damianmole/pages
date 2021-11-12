@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "bare"
 paginate = 5
 
 [params]
@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "bare"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
